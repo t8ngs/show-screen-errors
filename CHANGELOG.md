@@ -5,7 +5,7 @@
 
 ### Bug Fixes
 
-* **ci:** erro in deploy for push package ([3389423](https://github.com/t8ngs/show-screen-errors/commit/3389423fa1ed0335ad2cec992482906c86df3640))
+* **ci:** error in deploy for push package ([3389423](https://github.com/t8ngs/show-screen-errors/commit/3389423fa1ed0335ad2cec992482906c86df3640))
 
 ## 1.0.0 (2025-09-28)
 
