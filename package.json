@@ -1,6 +1,6 @@
 {
   "name": "@t8ngs/show-screen-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Error printer to pretty print T8ngs errors",
   "type": "module",
   "files": [

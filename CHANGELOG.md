@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/t8ngs/show-screen-errors/compare/v1.0.0...v1.0.1) (2025-09-28)
+
+
+### Bug Fixes
+
+* **ci:** error in deploy for push package ([3389423](https://github.com/t8ngs/show-screen-errors/commit/3389423fa1ed0335ad2cec992482906c86df3640))
+
 ## 1.0.0 (2025-09-28)
 
 
