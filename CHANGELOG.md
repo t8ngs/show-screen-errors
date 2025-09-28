@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/t8ngs/show-screen-errors/compare/v1.0.1...v1.0.2) (2025-09-28)
+
+
+### Bug Fixes
+
+* **package:** alterando youch for package ([0b8ec5c](https://github.com/t8ngs/show-screen-errors/commit/0b8ec5ca00cfa57674dd91e2b164944239f136a8))
+
 ## [1.0.1](https://github.com/t8ngs/show-screen-errors/compare/v1.0.0...v1.0.1) (2025-09-28)
 
 
