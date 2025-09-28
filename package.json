@@ -24,8 +24,7 @@
     "build": "npm run compile",
     "version": "npm run build",
     "prepublishOnly": "npm run build",
-    "release": "release-it",
-    "clean": "del build",
+    "clean": "del dist",
     "quick:test": "glob -c \"node --import=ts-node-maintained/register/esm --enable-source-maps --test-reporter=spec --test\" \"tests/*.spec.ts\"",
     "prepare": "husky",
     "commit": "cz",
@@ -54,8 +53,7 @@
     "prettier": "^3.6.2",
     "ts-node-maintained": "^10.9.6",
     "tsup": "^8.5.0",
-    "typescript": "^5.9.2",
-    "youch": "^4.1.0-beta.11"
+    "typescript": "^5.9.2"
   },
   "homepage": "https://github.com/t8ngs/show-screen-errors#readme",
   "repository": {
@@ -104,7 +102,8 @@
   "dependencies": {
     "@poppinss/colors": "^4.1.5",
     "jest-diff": "^30.2.0",
-    "supports-color": "^10.2.2"
+    "supports-color": "^10.2.2",
+    "youch": "^4.1.0-beta.11"
   },
   "config": {
     "commitizen": {
