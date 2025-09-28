@@ -6,7 +6,7 @@
 ### Features
 
 * **init:** commit initial ([f63579d](https://github.com/t8ngs/show-screen-errors/commit/f63579d6e332714a7549b21309d97df4bfb73c73))
-* **prettier:** recofig prettier for project ([4db2bd1](https://github.com/t8ngs/show-screen-errors/commit/4db2bd1307250883cb5508d2a2c2c44a25eb54ec))
+* **prettier:** reconfigure prettier for project ([4db2bd1](https://github.com/t8ngs/show-screen-errors/commit/4db2bd1307250883cb5508d2a2c2c44a25eb54ec))
 
 
 ### Bug Fixes
